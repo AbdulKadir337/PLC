@@ -1,2 +1,1 @@
-# PLC
-PLC Projekt med EQSP32
+Sensor-input added
