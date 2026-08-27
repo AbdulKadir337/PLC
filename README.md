@@ -1,3 +1,4 @@
+Control via PWM added
 # PLC
 PLC Projekt med EQSP32
 
